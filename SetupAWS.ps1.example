@@ -1,0 +1,2 @@
+Install-Module -name AWSPowerShell
+Set-AWSCredential -AccessKey youraccesskey -SecretKey yoursecretkey -StoreAs PowerShellProfile
